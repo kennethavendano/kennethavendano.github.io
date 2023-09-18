@@ -1,0 +1,31 @@
+
+        
+        h1 {
+            color: rgb(0, 0, 0);
+        
+        }  
+        p1{
+            color: #ffffff;
+        }
+        
+        body {
+            background-color: #1d89d1;
+        }
+
+        #aboutme {
+            background-image: url(myBackground.jpg);
+        }
+
+        #mark{
+            float: left;
+            width: 60%;
+            margin-right: 6px;
+        }
+       
+
+
+        
+
+       
+           
+      
