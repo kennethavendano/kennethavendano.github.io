@@ -24,8 +24,30 @@ p{
     color: aliceblue;
 }
 
-div {
+#mark {
 width: 350px; 
 float: left;
+padding: 5%;
+}
+
+#taco{
+width: 350px;
+float: left;
+padding: 5%;
+}
+
+#beach{
+width: 350px;
+float: left;
+padding: 5%;
+}
+
+#dog{
+width: 350px;
+float: left;
+padding: 5%;
+}
+
+#intro {
 padding: 5%;
 }
