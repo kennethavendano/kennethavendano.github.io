@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+table {
+    width: 800px; /* or any specific width */
+    table-layout: fixed; /* ensures columns are of equal width */
+}
+
+table {
+    width: 800px; /* or any specific width */
+    table-layout: fixed; /* ensures columns are of equal width */
+}
+
+td {
+    text-align: center; /* centers your buttons/images */
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+p{ 
+    color: aliceblue;
+}
+
+div {
+width: 350px; 
+float: left;
+padding: 5%;
+}
